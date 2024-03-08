@@ -1,5 +1,5 @@
 # Schottland
-___
+
 
 ## ♪ Introduction
 > Das ist eine Webseite, die ich als Schueler in meiner Schulischen Ausbildung angefertigt habe. Durch das Erstellen dieser Webseite konnte ich meine Kenntnisse in HTML und CSS verbessern. Es war ein integraler Bestandteil meiner schulischen Ausbildung, da uns die Inhalte für die Webseite vorgegeben wurden.
